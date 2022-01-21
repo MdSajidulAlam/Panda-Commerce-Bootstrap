@@ -8,3 +8,15 @@
     border-radius: 8px;
     padding: 9px 25px;
 }
+#panda-slider{
+    margin-top: 7rem !important;
+}
+#panda-categories:hover{
+    transform: scale(1.05) !important;
+    transition: transform 2s ease 0.3s !important;
+}
+#panda-products:hover{
+    background-color: #fceae8;
+    transform: scale(1.1) !important;
+    transition: transform 2s ease 0.3s !important;
+}
